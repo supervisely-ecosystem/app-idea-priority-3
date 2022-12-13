@@ -4,9 +4,9 @@
   "name": "Idea priority #2 template",
   "description": "Short application description",
   "categories": ["idea"],
-  "icon": "https://user-images.githubusercontent.com/12828725/207279328-2cacdb03-4ae3-4bc5-b6a2-221731438c12.png",
+  "icon": "https://user-images.githubusercontent.com/12828725/207280337-75f9627d-4311-4db7-a052-b9429caf2592.png",
   "icon_cover": true,
-  "poster": "https://user-images.githubusercontent.com/12828725/207279329-580a9147-5a20-4b2b-89ec-24bef001cd63.png",
+  "poster": "https://user-images.githubusercontent.com/12828725/207280318-3c0cc7eb-d2c4-4853-98e5-1bef64ae4a38.png",
   "entrypoint": "python -m uvicorn src.main:app --host 0.0.0.0 --port 8000",
   "port": 8000
 }
